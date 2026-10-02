@@ -1,1 +1,2 @@
-# Epic-Archery-5
+# Epic Archery
+This is the initial file of the Epic Archery game.
